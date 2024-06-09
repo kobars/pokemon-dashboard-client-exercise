@@ -40,3 +40,15 @@ You can refer to the completed version [here](https://pokemon-dashboard-client.v
 - `/pokemons/:name`: Add a catch button and store the caught pokemon in local storage. Prevent users from catching already caught pokemons.
 - `/users`: List all users and add a navigation button to access each user's pokemon list.
 - `/users/:name`: When a logged-in user views their own pokemon list, provide a release button. Make sure released pokemons no longer appear on the list.
+
+## Credential List
+
+### Admin:
+- **Email:** johndoe@gmail.com
+- **Password:** johndoe
+
+### Users:
+- **Email:** janedoe@gmail.com
+- **Password:** janedoe
+- **Email:** johnsmith@gmail.com
+- **Password:** johnsmith
